@@ -2,4 +2,4 @@
 
 declare(strict_types=1);
 
-$featureFrom3 = '3';
+$featureFrom4 = '4';
